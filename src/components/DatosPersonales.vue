@@ -11,7 +11,7 @@ const logo = [
   {id:0, name: 'Logo', src: logoImg, url: 'f'},
   ];
 const descripcion = 'Augusto Julian Vernengo Lima';
-const presentacion = 'Estudiante de la tecnicatura en programacion de la utn integrante del grupo 11 ratas 1 sueño ';
+const presentacion = 'Estudiante de la tecnicatura en programacion de la utn integrante del grupo 11 ratas 1 sueño. ';
 const residencia = 'Argentina - Mendoza';
 const telefono = '2684675908';
 const redes = [
